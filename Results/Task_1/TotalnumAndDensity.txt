@@ -1,0 +1,11 @@
+Total number of users: 943
+Total number of items: 1682
+Total number of ratings: 100000
+ratings density metric: 6.30 %
+Total num of 1-star: 6110
+Total num of 2-star: 11370
+Total num of 3-star: 27145
+Total num of 4-star: 34174
+Total num of 5-star: 21201
+The num of unpredicted by the mean_item_rating approach: 141
+The coverage of the mean_item_rating approach: 99.86 %
